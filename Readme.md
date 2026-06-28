@@ -1,9 +1,155 @@
-# Deno Examples: Hello, World!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pick n Mix Sweets | British Sweet Inspiration</title>
+<meta name="description" content="Explore the world of British Pick n Mix sweets, retro favourites, vegan treats and sweet gift ideas.">
+<style>
+body{
+font-family:Arial,Helvetica,sans-serif;
+max-width:900px;
+margin:auto;
+padding:20px;
+line-height:1.8;
+color:#333;
+}
+header{
+text-align:center;
+padding:20px;
+background:#f8f8f8;
+border-radius:10px;
+}
+section{
+margin-top:30px;
+}
+a{
+color:#0066cc;
+text-decoration:none;
+}
+a:hover{
+text-decoration:underline;
+}
+footer{
+margin-top:40px;
+text-align:center;
+font-size:14px;
+color:#666;
+}
+</style>
+</head>
 
-Simply serving a single file over HTTP
+<body>
 
-## Get your own copy to explore
+<header>
+<h1>Welcome to Pick n Mix Sweets</h1>
+<p>
+Celebrating Britain's favourite sweet tradition.
+</p>
+</header>
 
-You can clone this example into a repo of your own, and use it to set up a new application hosted on Deno Deploy in a few clicks
+<section>
 
-[![Deploy on Deno](https://deno.com/button)](https://app.deno.com/new?clone=https://github.com/denoland/examples&path=hello-world)
+<h2>About Pick n Mix</h2>
+
+<p>
+Pick n Mix sweets have been enjoyed across the United Kingdom for generations.
+The idea is simple: choose your favourite sweets and create a personalised selection
+that suits your own taste.
+</p>
+
+<p>
+From retro classics to modern vegan treats, Pick n Mix continues to be one of the
+most popular ways to enjoy confectionery.
+</p>
+
+</section>
+
+<section>
+
+<h2>Popular Sweet Categories</h2>
+
+<ul>
+<li>Retro British sweets</li>
+<li>Fizzy favourites</li>
+<li>Jelly sweets</li>
+<li>Chocolate treats</li>
+<li>Foam sweets</li>
+<li>Vegan Pick n Mix</li>
+<li>Sweet gift boxes</li>
+<li>Seasonal confectionery</li>
+</ul>
+
+</section>
+
+<section>
+
+<h2>Why People Love Pick n Mix</h2>
+
+<p>
+The variety is part of the fun.
+Everyone can build their own perfect selection by mixing fruity,
+chewy, fizzy and chocolate favourites into one bag.
+</p>
+
+<p>
+Pick n Mix sweets are popular for:
+</p>
+
+<ul>
+<li>Birthday parties</li>
+<li>Movie nights</li>
+<li>Family gatherings</li>
+<li>Wedding favours</li>
+<li>Corporate gifts</li>
+<li>Holiday celebrations</li>
+</ul>
+
+</section>
+
+<section>
+
+<h2>Discover More Sweet Ideas</h2>
+
+<p>
+If you enjoy traditional British confectionery,
+retro sweets and colourful Pick n Mix selections,
+you can explore a wide range of products and gift ideas at:
+</p>
+
+<p>
+<strong>
+<a href="https://sweetsuk.co.uk/" target="_blank">
+SweetsUK.co.uk
+</a>
+</strong>
+</p>
+
+</section>
+
+<section>
+
+<h2>Fun Sweet Facts</h2>
+
+<ul>
+<li>Pick n Mix allows complete personalisation.</li>
+<li>Retro sweets remain popular with all ages.</li>
+<li>Many modern selections now include vegan options.</li>
+<li>Sweet gift boxes make excellent presents for special occasions.</li>
+</ul>
+
+</section>
+
+<footer>
+
+<p>
+© 2026 Pick n Mix Sweets Information Hub.
+</p>
+
+<p>
+Created for people who love traditional British sweets.
+</p>
+
+</footer>
+
+</body>
